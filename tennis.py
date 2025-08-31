@@ -1,3 +1,4 @@
+# подключение модулей
 import tkinter
 from tkinter import messagebox
 import time
@@ -121,4 +122,5 @@ window.bind('<KeyRelease>', key_off)
 
 # начало игры
 game_on()
+
 main_loop()
