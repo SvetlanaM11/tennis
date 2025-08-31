@@ -3,6 +3,7 @@ import tkinter
 from tkinter import messagebox
 import time
 
+
 # окно
 canvasWidth = 750
 canvasHeight = 500
@@ -123,4 +124,5 @@ window.bind('<KeyRelease>', key_off)
 # начало игры
 game_on()
 main_loop()
+
 
