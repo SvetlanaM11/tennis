@@ -122,5 +122,7 @@ window.bind('<KeyRelease>', key_off)
 
 # начало игры
 game_on()
+
 main_loop()
+
 
